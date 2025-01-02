@@ -23,7 +23,7 @@ int main(void)
     led_green_off();
       
     /// send message ///
-    usart_send_string(string1);
+    uart1_send_string(string1);
   }
 }
 
