@@ -16,7 +16,7 @@ int main(void)
   
   while (1)
   {
-    system_delay(100);
+    system_delay(200);
     led_green_on();
     
     system_delay(400);
