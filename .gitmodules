@@ -1,3 +1,6 @@
 [submodule "project/mdl_stm32"]
 	path = project/mdl_stm32
 	url = https://github.com/JohnR-stm/mdl_stm32.git
+[submodule "project/modules/middlewares/free_rtos"]
+	path = project/modules/middlewares/free_rtos
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
