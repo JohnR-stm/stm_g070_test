@@ -29,5 +29,10 @@
 #define CONF_UART1_PARITY                       LL_USART_PARITY_NONE
 #define CONF_UART1_DIRECTION                    LL_USART_DIRECTION_TX_RX
 
+//--- uart1 interrupts ---//
+#define uart1_IRQ_handler                       USART2_IRQHandler
+#define uart_IRQ_vector                         USART2_IRQn
+
+
 #endif /* _UART_CONFIG_H_ */
 

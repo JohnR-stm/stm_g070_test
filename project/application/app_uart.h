@@ -3,6 +3,8 @@
 
 
 
+void uart1_handler(void);
 
 
 #endif /* _APP_UART_H_ */
+

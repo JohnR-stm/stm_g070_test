@@ -11,7 +11,7 @@ char string1[] = "Hello, I'm STM32G070! \r\n";
 int main(void)
 {
   system_clock_config();
-  led_init();
+  leds_init();
   uart_init_all();
   
   while (1)
