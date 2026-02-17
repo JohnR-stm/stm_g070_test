@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2026 IvanRomanov
+ * Licensed under the MIT License. See LICENSE file in the project root.
+ */
+
 #include <stdint.h>
 #include <stdio.h>
 #include "app_uart.h"

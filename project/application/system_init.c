@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2026 IvanRomanov
+ * Licensed under the MIT License. See LICENSE file in the project root.
+ */
+
 #include "stm32g0xx_ll_rcc.h"
 //#include "stm32g0xx_ll_system.h" // FLASH
 #include "stm32g0xx_ll_utils.h" 

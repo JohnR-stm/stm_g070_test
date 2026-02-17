@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2026 IvanRomanov
+ * Licensed under the MIT License. See LICENSE file in the project root.
+ */
+
 #ifndef _SYSTEM_INIT_H_
 #define _SYSTEM_INIT_H_
 
